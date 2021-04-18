@@ -1,0 +1,2 @@
+<h1>Welcome to Contact Page</h1>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus nulla, voluptas inventore sed sapiente error corporis facere debitis at, consectetur nobis. Molestias eveniet ab ipsa ex impedit qui accusamus similique?</p>
